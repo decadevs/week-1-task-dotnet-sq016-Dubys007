@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33801.468
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Console Bank App Assignment", "Console Bank App Assignment\Console Bank App Assignment.csproj", "{456DC3B7-7130-4BD1-882E-E333E3FDF7FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{456DC3B7-7130-4BD1-882E-E333E3FDF7FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{456DC3B7-7130-4BD1-882E-E333E3FDF7FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{456DC3B7-7130-4BD1-882E-E333E3FDF7FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{456DC3B7-7130-4BD1-882E-E333E3FDF7FD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CCD9D57F-2673-4E72-9BF6-2E70A70C7504}
+	EndGlobalSection
+EndGlobal
